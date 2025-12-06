@@ -18,8 +18,9 @@ You are free to frok it!
 - qbittorrent
 - vscode
 - Foxitreader
+- Free Download Manager
   
 ## Script ##
 ```
-choco install steam microsoft-edge vlc 7zip epicgameslauncher gimp kdenlive handbreak obs-studio spotube localsend qbittorrent vscode foxitreader -y
+choco install steam microsoft-edge vlc 7zip epicgameslauncher gimp kdenlive handbreak obs-studio spotube localsend qbittorrent vscode foxitreader freedownloadmanager -y
 ```
