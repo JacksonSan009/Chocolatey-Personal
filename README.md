@@ -8,19 +8,18 @@ You are free to frok it!
 - Edge
 - Vlc
 - 7zip
-- Epic Games Launcher
 - Gimp
 - Kdenlive
 - HandBreak
 - OBS
-- Spotube
 - Localsend
 - qbittorrent
 - vscode
 - Foxitreader
 - Free Download Manager
+- Heroic games launcher
   
 ## Script ##
 ```
-choco install steam microsoft-edge vlc 7zip epicgameslauncher gimp kdenlive handbreak obs-studio spotube localsend qbittorrent vscode foxitreader freedownloadmanager -y
+choco install steam microsoft-edge vlc 7zip gimp kdenlive handbreak obs-studio localsend qbittorrent vscode foxitreader freedownloadmanager heroic-games-launcher -y
 ```
