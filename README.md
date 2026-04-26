@@ -10,16 +10,15 @@ You are free to frok it!
 - 7zip
 - Gimp
 - Kdenlive
-- HandBreak
+- HandBrake
 - OBS
 - Localsend
 - qbittorrent
 - vscode
 - Foxitreader
-- Free Download Manager
-- Heroic games launcher
+
   
 ## Script ##
 ```
-choco install steam microsoft-edge vlc 7zip gimp kdenlive handbreak obs-studio localsend qbittorrent vscode foxitreader freedownloadmanager heroic-games-launcher -y
+choco install steam vlc 7zip gimp kdenlive handbrake obs-studio localsend qbittorrent vscode foxitreader -y
 ```
